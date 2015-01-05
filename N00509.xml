@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000635_0000_0FA9633FE73EA568"/>
-            <pb facs="tcp:000635_0001_0FA963409710A1F0" rendition="simple:additions"/>
+            <pb facs="unknown:000635_0000_0FA9633FE73EA568"/>
+            <pb facs="unknown:000635_0001_0FA963409710A1F0"
+                rendition="simple:additions"/>
             <p>A Confession of Faith, In the most Necessary Things of Christian Doctrine, Faith and PRACTICE.</p>
             <p>According to the Testimony of Holy SCRIPTURES.</p>
             <p>Given forth from the Yearly Meeting at <hi>Burlington</hi> the <hi>7</hi>th of <hi>7</hi>th Moneth, <hi>1692.</hi> by the despised Christian People, called Quakers.</p>
@@ -122,7 +123,7 @@
       </front>
       <body>
          <div n="1" type="section">
-            <pb facs="tcp:000635_0002_0FA9634149FFC8B0"/>
+            <pb facs="unknown:000635_0002_0FA9634149FFC8B0"/>
             <head>SECTION I. Of God the Father, the Son and the Holy Spirit.</head>
             <p>WE believe in <note n="(a)" place="margin">Ephes. 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -166,7 +167,7 @@
                   </gap>e &amp; Glory.</hi>
             </p>
             <p>That as Gods Love and Grace is
-<pb n="2" facs="tcp:000635_0003_0FA963420757F588"/>
+<pb n="2" facs="unknown:000635_0003_0FA963420757F588"/>
 freely extended unto <note n="(d)" place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 paragraph">
                      <desc>〈1 paragraph〉</desc>
@@ -274,7 +275,7 @@ freely extended unto <note n="(d)" place="margin">
                   </gap>g-Suffering, &amp;c Col.</hi> 3.12.</p>
          </div>
          <div n="2" type="section">
-            <pb n="3" facs="tcp:000635_0004_0FA96343D30EC0F0"/>
+            <pb n="3" facs="unknown:000635_0004_0FA96343D30EC0F0"/>
             <head>SECT. II. Of Man, before and after the Fall.</head>
             <p>WE believe That Man consist<g ref="char:EOLhyphen"/>eth of a <note n="(a)" place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -319,7 +320,7 @@ freely extended unto <note n="(d)" place="margin">
                   <desc>•</desc>
                </gap>ul
 <pb n="4"
-                   facs="tcp:000635_0005_0FA96347705E7DF8"
+                   facs="unknown:000635_0005_0FA96347705E7DF8"
                    rendition="simple:additions"/>
 unto Righteousness, and Bodily Sick<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -394,7 +395,7 @@ unto Righteousness, and Bodily Sick<g ref="char:EOLhyphen"/>
                   <desc>•</desc>
                </gap>f
 <pb n="5"
-                   facs="tcp:000635_0006_0FA96348B22C92F0"
+                   facs="unknown:000635_0006_0FA96348B22C92F0"
                    rendition="simple:additions"/>
                <hi>Abraham,</hi> and <hi>was made of a Woman made under the Law,</hi> the promised <hi>Seed of the Woman, that should be <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
@@ -432,7 +433,7 @@ unto Righteousness, and Bodily Sick<g ref="char:EOLhyphen"/>
                </gap>ist Jesus as he came without us in the fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>sh, and
-<pb n="6" facs="tcp:000635_0007_0FA96348DB8A1068"/>
+<pb n="6" facs="unknown:000635_0007_0FA96348DB8A1068"/>
 dyed for our sins, and rose again, and is gone into Heaven, and there remain<g ref="char:EOLhyphen"/>eth our Advocate and Mediator with the Father, in whom all <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ullness of Grace and <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -541,7 +542,7 @@ dyed for our sins, and rose again, and is gone into Heaven, and there remain<g r
                   <desc>〈…〉</desc>
                </gap>
                <pb n="7"
-                   facs="tcp:000635_0008_0FA9634993B32AC8"
+                   facs="unknown:000635_0008_0FA9634993B32AC8"
                    rendition="simple:additions"/>
 that be wanting, by the Testimony of the holy Scriptu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -557,7 +558,7 @@ that be wanting, by the Testimony of the holy Scriptu<gap reason="illegible" res
                      <desc>••</desc>
                   </gap>
                </note> Christ the true Light doth lighten every man that cometh into the World, and that by his general Illumination, common to all Mankind he doth convince, teach and instruct all who give attendance unto the same, the things concerning God, and their Duty to him, as Creator, and doth reprove for Sin &amp; Disobedience, and bringeth them under the Law, &amp; Mi<g ref="char:EOLhyphen"/>nistration thereof, which is of a saving nature &amp; tendency in a general way;
-<pb n="8" facs="tcp:000635_0009_0FA9634A4CEB3C58"/>
+<pb n="8" facs="unknown:000635_0009_0FA9634A4CEB3C58"/>
 and <hi>this Law is as a</hi> 
                <note n="(m)" place="margin">Gal. 3.24·</note> 
                <hi>School-master to bring men</hi> (who give <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -577,7 +578,7 @@ and <hi>this Law is as a</hi>
                   <desc>•</desc>
                </gap>hrist in us, so nor doth Christ in us save us without Christ without us, the which Christ is one, the Full<g ref="char:EOLhyphen"/>ness
 <pb n="9"
-                   facs="tcp:000635_0010_0FA9634B206B54E8"
+                   facs="unknown:000635_0010_0FA9634B206B54E8"
                    rendition="simple:additions"/>
                <note n="(p)" place="margin">John 1 15, 16.</note> without us in the Man Christ Jesus, and the measure of him in u<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -593,7 +594,7 @@ and <hi>this Law is as a</hi>
                   <desc>•</desc>
                </gap>rther measures of Light and Grace yet to be received.</p>
             <p>And the Sufficiency that any hath of Grace, is for the present time, and not for all time to come; and there<g ref="char:EOLhyphen"/>fore every one is to wait <note n="(t)" place="margin">Isa 42<g ref="char:punc">▪</g> 29<g ref="char:punc">▪</g> 31</note> in the present measure already received, and by the help of the fame to pray to
-<pb n="10" facs="tcp:000635_0011_0FA9634D0715E760"/>
+<pb n="10" facs="unknown:000635_0011_0FA9634D0715E760"/>
 God in <note n="(u)" place="margin">Joh 14 13. cap 16 <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>3 <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -636,7 +637,7 @@ God in <note n="(u)" place="margin">Joh 14 13. cap 16 <gap reason="illegible" re
                   <desc>•</desc>
                </gap>ate not the Foundation of it, but CHRIST alone is the Foun<g ref="char:EOLhyphen"/>dation
 <pb n="11"
-                   facs="tcp:000635_0012_0FA9634EC850B920"
+                   facs="unknown:000635_0012_0FA9634EC850B920"
                    rendition="simple:additions"/>
 thereof, in whose Name, (as he dyed for us and rose again.) <note n="(b)" place="margin">Acts 4 12 1 Cor 3 11,</note> 
                <hi>Re<g ref="char:EOLhyphen"/>pentance and Remission o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -734,7 +735,7 @@ thereof, in whose Name, (as he dyed for us and rose again.) <note n="(b)" place=
                </gap>e for <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> to
-<pb n="12" facs="tcp:000635_0013_0FA9634ED72B4E10"/>
+<pb n="12" facs="unknown:000635_0013_0FA9634ED72B4E10"/>
 have a Holy Jealo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>ie over themselves<g ref="char:punc">▪</g> that they ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -773,7 +774,7 @@ have a Holy Jealo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                </gap>lness, from all our own Thoughts, and all S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>lf-movings, and Self-strivings and
-<pb n="13" facs="tcp:000635_0014_0FA963504D5B0970"/>
+<pb n="13" facs="unknown:000635_0014_0FA963504D5B0970"/>
 Workings in the mee<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Will and Power of Man.</p>
@@ -796,7 +797,7 @@ Workings in the mee<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>2.7.</note> 
                <hi>Not to Swear at all, Not to fight with Carnal Weapons, Not to pay Tythes,
-<pb n="14" facs="tcp:000635_0015_0FA9635116210618"/>
+<pb n="14" facs="unknown:000635_0015_0FA9635116210618"/>
 nor to practise a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>y pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -863,7 +864,7 @@ nor to practise a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>avingly understood</hi> by the <hi>Ill<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>mina<g ref="char:EOLhyphen"/>tion</hi> and <hi>Revelation</hi> of that Spirit that
-<pb n="15" facs="tcp:000635_0016_0FA96351CED21140"/>
+<pb n="15" facs="unknown:000635_0016_0FA96351CED21140"/>
 gave them forth; <note n="(d)" place="margin">Rom<g ref="char:punc">▪</g> 15.4.</note> That they are useful to Believers, for their growth &amp; encrease in Faith and Holiness, &amp;<note n="(e)" place="margin">John 20.31.</note> to Unbelievers, that they may believe, as God shall be pleased to make them Instrumental to the same; and that they contain a full and sufficient Te<g ref="char:EOLhyphen"/>stimony to all <hi>Christian Doctrine</hi> and <hi>Practice</hi>; &amp; that the <note n="(f)" place="margin">1 Cor. 2.4, 5. 1 Thess. 1<g ref="char:punc">▪</g> 5. 1 John 5:9, 10.</note> Truth of them is believed principally for and <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ecause of the <hi>inward Testimony, Evidence</hi> and <hi>Word of God,</hi> and of <hi>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -882,7 +883,7 @@ gave them forth; <note n="(d)" place="margin">Rom<g ref="char:punc">▪</g> 15.4
             <p>WE believe, That after <note n="(a)" place="margin">Heb 9, 27 Luk 16, 22, Phi 1, 23. Rev 6, 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>, 11<g ref="char:punc">▪</g> &amp; 14.13.</note> Death cometh Judgment, and that the
-<pb n="16" facs="tcp:000635_0017_0FA9635288D2E170"/>
+<pb n="16" facs="unknown:000635_0017_0FA9635288D2E170"/>
 Souls of all true <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>elievers in Christ Jesus, both Males and Females, im<g ref="char:EOLhyphen"/>mediately after Death go to God, and to Christ, in Heaven; and that the Souls of them who dye in <hi>final Impeni<g ref="char:EOLhyphen"/>
@@ -932,7 +933,7 @@ Souls of all true <gap reason="illegible" resp="#PDCC" extent="1 letter">
             </p>
          </div>
          <div n="8" type="section">
-            <pb n="17" facs="tcp:000635_0018_0FA9635347E78770"/>
+            <pb n="17" facs="unknown:000635_0018_0FA9635347E78770"/>
             <head>SECT. VIII. Concerning Christs Baptism &amp; Supper.</head>
             <p>WE believe, That <hi>Christs</hi> 
                <note n="(a)" place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -957,7 +958,7 @@ Souls of all true <gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>ivately or more so<g ref="char:EOLhyphen"/>lemnly, as occasion offers.</p>
          </div>
          <div n="9" type="section">
-            <pb n="18" facs="tcp:000635_0019_0FA96355C95BF730"/>
+            <pb n="18" facs="unknown:000635_0019_0FA96355C95BF730"/>
             <head>SECT. IX. Concerning Places and Times of Worship.</head>
             <p>WE believe, That all <note n="(a)" place="margin">John 4 21 22 23. 1 Tim 2 8. Col <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -978,7 +979,7 @@ Souls of all true <gap reason="illegible" resp="#PDCC" extent="1 letter">
                </hi> 
                <note n="(a)" place="margin">Col 4.6. 1 Pet 3 3.4, 5.</note> 
                <hi>Language</hi> and <hi>Plain Habit,</hi> with all man<g ref="char:EOLhyphen"/>ner
-<pb n="19" facs="tcp:000635_0020_0FA96359231D0F38"/>
+<pb n="19" facs="unknown:000635_0020_0FA96359231D0F38"/>
 of <hi>Temperance</hi> and <hi>Abstinence from all va<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n Custom o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1035,7 +1036,7 @@ of <hi>Temperance</hi> and <hi>Abstinence from all va<gap reason="illegible" res
                      <desc>•</desc>
                   </gap>
                   <g ref="char:EOLhyphen"/>ritual
-<pb n="20" facs="tcp:000635_0021_0FA96359ED539F58"/>
+<pb n="20" facs="unknown:000635_0021_0FA96359ED539F58"/>
 inward Gift o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Discerning</hi> in them as the Tree i<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1119,7 +1120,7 @@ inward Gift o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap> their Commands, <hi>not only for Wra<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>
-                  <pb n="21" facs="tcp:000635_0022_0FA9635A09D55D50"/>
+                  <pb n="21" facs="unknown:000635_0022_0FA9635A09D55D50"/>
 b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>t for</hi> 
